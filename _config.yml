@@ -40,8 +40,8 @@ email: minsh93@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: '/jekyll-theme-prologue'
-url: https://soohyunmin.github.io/
+baseurl: '/prologue'
+url: https://html5up.net/prologue
 
 # Social settings
 facebook_url:
